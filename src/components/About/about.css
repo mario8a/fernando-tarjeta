@@ -1,3 +1,4 @@
+/* #006D4E */
 .about-bgImage img {
   width: 100%;
   height: 40vh;
@@ -64,7 +65,7 @@
   margin-top: 1rem;
   appearance: none;
   backface-visibility: hidden;
-  background-color: #124E85;
+  background-color: #006D4E;
   border-radius: 10px;
   border-style: none;
   box-shadow: none;
@@ -97,7 +98,7 @@
   margin-top: 6rem;
   display: flex;
   justify-content: space-around;
-  background-color: #124E85;
+  background-color: #006D4E;
   padding-top: 1.2rem;
   padding-bottom: 1.2rem;
   flex-wrap: wrap;
@@ -151,7 +152,7 @@
 }
 
 .accordion-item {
-  background-color: #124E85;
+  background-color: #006D4E;
   margin-bottom: 5px;
   padding: 10px 20px;
 }
